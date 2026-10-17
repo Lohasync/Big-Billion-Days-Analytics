@@ -19,3 +19,14 @@ The objective is to evaluate regional revenue, product performance, order status
 4. Dashboard planning and visualization
 5. AI-assisted verification and documentation
 6. Final validation and GitHub submission
+
+## Key Business Questions
+
+1. What is the total revenue from completed orders?
+2. Which products generate the highest revenue?
+3. How does revenue vary across regions?
+4. What is the distribution of orders by status?
+5. Which sales representatives meet their monthly targets?
+6. Which customers and regions contribute most to sales?
+7. Are there missing values or data-quality issues?
+8. How does monthly sales performance change over time?
