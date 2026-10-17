@@ -11,3 +11,11 @@ The objective is to evaluate regional revenue, product performance, order status
 - **Google Sheets:** Data cleaning, calculations, and pivot tables
 - **Dashboard:** KPI and chart planning
 - **GitHub:** Project documentation and version control
+## Project Workflow
+
+1. Data understanding and business analysis
+2. SQL database creation and analysis
+3. Spreadsheet data cleaning and analysis
+4. Dashboard planning and visualization
+5. AI-assisted verification and documentation
+6. Final validation and GitHub submission
