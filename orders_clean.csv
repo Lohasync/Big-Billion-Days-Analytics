@@ -1,0 +1,91 @@
+order_id,order_month,first_name,last_name,region,rep_name,item,quantity,amount,status,clean_first_name,clean_last_name,category,unit_price
+1001,2026-09,MEERA,  Patil,South,Kavya Nair,Bluetooth Speaker,2,,pending,Meera,Patil,Electronics,2800
+1002,2026-09,Nisha,Mishra,West,Neha Kulkarni,Smart Watch,1,4500,pending,Nisha,Mishra,Electronics,4500
+1003,2026-09,Lakshmi,Kapoor,South,Kavya Nair,Air Fryer,2,10400,disputed,Lakshmi,Kapoor,Home,5200
+1004,2026-09,Gaurav,Yadav,East,Sanjay Roy,Cotton Kurta,2,2800,pending,Gaurav,Yadav,Apparel,1400
+1005,2026-09,Tanvi,Thakur,South,Kavya Nair,Table Lamp,1,1100,completed,Tanvi,Thakur,Home,1100
+1006,2026-09,  Vikram,Singh ,North,Arjun Mehta,Smart Watch,3,13500,completed,Vikram,Singh,Electronics,4500
+1007,2026-09,Tanvi,Thakur,South,Kavya Nair,Bedsheet Set,1,1900,completed,Tanvi,Thakur,Home,1900
+1008,2026-09,Sneha,Das,West,Neha Kulkarni,Wireless Earbuds,2,6400,completed,Sneha,Das,Electronics,3200
+1009,2026-09,RAHUL,VERMA,East,Sanjay Roy,Bedsheet Set,1,1900,completed,Rahul,Verma,Home,1900
+1010,2026-09,Gaurav,Yadav,East,Sanjay Roy,Wireless Earbuds,1,,pending,Gaurav,Yadav,Electronics,3200
+1011,2026-09,  Isha,Pillai,West,Neha Kulkarni,Air Fryer,3,15600,disputed,Isha,Pillai,Home,5200
+1012,2026-09,Sneha,Das,West,Neha Kulkarni,Running Shoes,1,3600,completed,Sneha,Das,Apparel,3600
+1013,2026-09,Harsh,Chopra,East,Sanjay Roy,Smart Watch,2,9000,disputed,Harsh,Chopra,Electronics,4500
+1014,2026-09,Aditya ,Rao,East,Sanjay Roy,Smart Watch,1,4500,completed,Aditya,Rao,Electronics,4500
+1015,2026-09,Lakshmi,Kapoor,South,Kavya Nair,Smart Watch,2,9000,completed,Lakshmi,Kapoor,Electronics,4500
+1016,2026-09,Pooja,Menon,West,Neha Kulkarni,Denim Jacket,3,7500,completed,Pooja,Menon,Apparel,2500
+1017,2026-09,  Vikram,Singh ,North,Arjun Mehta,Wireless Earbuds,1,3200,completed,Vikram,Singh,Electronics,3200
+1018,2026-09,Manoj,Desai,North,Arjun Mehta,Bedsheet Set,2,3800,completed,Manoj,Desai,Home,1900
+1019,2026-09,  Vikram,Singh ,North,Arjun Mehta,Running Shoes,2,7200,completed,Vikram,Singh,Apparel,3600
+1020,2026-09,Tanvi,Thakur,South,Kavya Nair,Wireless Earbuds,2,6400,completed,Tanvi,Thakur,Electronics,3200
+1021,2026-09,Manoj,Desai,North,Arjun Mehta,Air Fryer,2,10400,completed,Manoj,Desai,Home,5200
+1022,2026-09,  Vikram,Singh ,North,Arjun Mehta,Air Fryer,2,10400,completed,Vikram,Singh,Home,5200
+1023,2026-09,Manoj,Desai,North,Arjun Mehta,Running Shoes,1,3600,completed,Manoj,Desai,Apparel,3600
+1024,2026-09,Priya,iyer,South,Kavya Nair,Cotton Kurta,1,1400,completed,Priya,Iyer,Apparel,1400
+1025,2026-09,Divya,Gupta,West,Neha Kulkarni,Table Lamp,1,1100,completed,Divya,Gupta,Home,1100
+1026,2026-09,  Vikram,Singh ,North,Arjun Mehta,Cotton Kurta,1,1400,completed,Vikram,Singh,Apparel,1400
+1027,2026-10,aarav,Sharma,North,Arjun Mehta,Smart Watch,1,4500,completed,Aarav,Sharma,Electronics,4500
+1028,2026-10,Swati,Banerjee,South,Kavya Nair,Wireless Earbuds,1,3200,completed,Swati,Banerjee,Electronics,3200
+1029,2026-10,Aditya ,Rao,East,Sanjay Roy,Denim Jacket,2,5000,completed,Aditya,Rao,Apparel,2500
+1030,2026-10,Lakshmi,Kapoor,South,Kavya Nair,Denim Jacket,2,5000,completed,Lakshmi,Kapoor,Apparel,2500
+1031,2026-10,  Isha,Pillai,West,Neha Kulkarni,Denim Jacket,2,5000,disputed,Isha,Pillai,Apparel,2500
+1032,2026-10,karthik ,nair,East,Sanjay Roy,Table Lamp,2,2200,completed,Karthik,Nair,Home,1100
+1033,2026-10,Swati,Banerjee,South,Kavya Nair,Denim Jacket,1,2500,pending,Swati,Banerjee,Apparel,2500
+1034,2026-10,Divya,Gupta,West,Neha Kulkarni,Running Shoes,2,7200,completed,Divya,Gupta,Apparel,3600
+1035,2026-10,  Vikram,Singh ,North,Arjun Mehta,Bluetooth Speaker,1,2800,pending,Vikram,Singh,Electronics,2800
+1036,2026-10,Tanvi,Thakur,South,Kavya Nair,Denim Jacket,2,5000,pending,Tanvi,Thakur,Apparel,2500
+1037,2026-10,RAHUL,VERMA,East,Sanjay Roy,Bedsheet Set,2,3800,pending,Rahul,Verma,Home,1900
+1038,2026-10,RAHUL,VERMA,East,Sanjay Roy,Cotton Kurta,2,2800,completed,Rahul,Verma,Apparel,1400
+1039,2026-10,RAHUL,VERMA,East,Sanjay Roy,Table Lamp,2,2200,completed,Rahul,Verma,Home,1100
+1040,2026-10,aarav,Sharma,North,Arjun Mehta,Smart Watch,3,13500,completed,Aarav,Sharma,Electronics,4500
+1041,2026-10,Divya,Gupta,West,Neha Kulkarni,Bluetooth Speaker,1,2800,completed,Divya,Gupta,Electronics,2800
+1042,2026-10,Lakshmi,Kapoor,South,Kavya Nair,Table Lamp,1,1100,pending,Lakshmi,Kapoor,Home,1100
+1043,2026-10,Rohit,Khan,North,Arjun Mehta,Bluetooth Speaker,1,2800,completed,Rohit,Khan,Electronics,2800
+1044,2026-10,MEERA,  Patil,South,Kavya Nair,Running Shoes,1,3600,pending,Meera,Patil,Apparel,3600
+1045,2026-10,Nisha,Mishra,West,Neha Kulkarni,Cotton Kurta,3,4200,completed,Nisha,Mishra,Apparel,1400
+1046,2026-10,  Vikram,Singh ,North,Arjun Mehta,Bedsheet Set,1,1900,completed,Vikram,Singh,Home,1900
+1047,2026-10,  Isha,Pillai,West,Neha Kulkarni,Wireless Earbuds,3,9600,disputed,Isha,Pillai,Electronics,3200
+1048,2026-10,Priya,iyer,South,Kavya Nair,Table Lamp,1,1100,completed,Priya,Iyer,Home,1100
+1049,2026-10,aarav,Sharma,North,Arjun Mehta,Smart Watch,2,9000,completed,Aarav,Sharma,Electronics,4500
+1050,2026-10,Pooja,Menon,West,Neha Kulkarni,Running Shoes,1,3600,completed,Pooja,Menon,Apparel,3600
+1051,2026-10,Sneha,Das,West,Neha Kulkarni,Cotton Kurta,2,2800,completed,Sneha,Das,Apparel,1400
+1052,2026-10,Aditya ,Rao,East,Sanjay Roy,Smart Watch,3,13500,pending,Aditya,Rao,Electronics,4500
+1053,2026-10,Tanvi,Thakur,South,Kavya Nair,Air Fryer,1,5200,completed,Tanvi,Thakur,Home,5200
+1054,2026-10,Manoj,Desai,North,Arjun Mehta,Wireless Earbuds,3,9600,completed,Manoj,Desai,Electronics,3200
+1055,2026-10,Swati,Banerjee,South,Kavya Nair,Smart Watch,1,4500,completed,Swati,Banerjee,Electronics,4500
+1056,2026-10,Pooja,Menon,West,Neha Kulkarni,Wireless Earbuds,1,3200,disputed,Pooja,Menon,Electronics,3200
+1057,2026-11,Sneha,Das,West,Neha Kulkarni,Bluetooth Speaker,1,2800,pending,Sneha,Das,Electronics,2800
+1058,2026-11,suresh,BOSE,North,Arjun Mehta,Bedsheet Set,1,1900,pending,Suresh,Bose,Home,1900
+1059,2026-11,Priya,iyer,South,Kavya Nair,Bluetooth Speaker,2,5600,completed,Priya,Iyer,Electronics,2800
+1060,2026-11,suresh,BOSE,North,Arjun Mehta,Wireless Earbuds,3,9600,disputed,Suresh,Bose,Electronics,3200
+1061,2026-11,Nisha,Mishra,West,Neha Kulkarni,Air Fryer,3,15600,completed,Nisha,Mishra,Home,5200
+1062,2026-11,  Isha,Pillai,West,Neha Kulkarni,Wireless Earbuds,2,6400,completed,Isha,Pillai,Electronics,3200
+1063,2026-11,MEERA,  Patil,South,Kavya Nair,Air Fryer,1,5200,pending,Meera,Patil,Home,5200
+1064,2026-11,  Isha,Pillai,West,Neha Kulkarni,Bluetooth Speaker,1,,pending,Isha,Pillai,Electronics,2800
+1065,2026-11,Tanvi,Thakur,South,Kavya Nair,Air Fryer,3,15600,completed,Tanvi,Thakur,Home,5200
+1066,2026-11,suresh,BOSE,North,Arjun Mehta,Wireless Earbuds,1,3200,completed,Suresh,Bose,Electronics,3200
+1067,2026-11,Priya,iyer,South,Kavya Nair,Air Fryer,1,5200,completed,Priya,Iyer,Home,5200
+1068,2026-11,Harsh,Chopra,East,Sanjay Roy,Air Fryer,1,5200,pending,Harsh,Chopra,Home,5200
+1069,2026-11,Aditya ,Rao,East,Sanjay Roy,Air Fryer,3,15600,completed,Aditya,Rao,Home,5200
+1070,2026-11,MEERA,  Patil,South,Kavya Nair,Table Lamp,2,2200,completed,Meera,Patil,Home,1100
+1071,2026-11,Tanvi,Thakur,South,Kavya Nair,Air Fryer,1,5200,pending,Tanvi,Thakur,Home,5200
+1072,2026-11,  Isha,Pillai,West,Neha Kulkarni,Bedsheet Set,1,1900,completed,Isha,Pillai,Home,1900
+1073,2026-11,Harsh,Chopra,East,Sanjay Roy,Smart Watch,1,4500,completed,Harsh,Chopra,Electronics,4500
+1074,2026-11,Nisha,Mishra,West,Neha Kulkarni,Running Shoes,2,7200,completed,Nisha,Mishra,Apparel,3600
+1075,2026-11,Sneha,Das,West,Neha Kulkarni,Running Shoes,1,3600,pending,Sneha,Das,Apparel,3600
+1076,2026-11,Gaurav,Yadav,East,Sanjay Roy,Cotton Kurta,2,2800,completed,Gaurav,Yadav,Apparel,1400
+1077,2026-11,RAHUL,VERMA,East,Sanjay Roy,Air Fryer,3,15600,completed,Rahul,Verma,Home,5200
+1078,2026-11,RAHUL,VERMA,East,Sanjay Roy,Cotton Kurta,1,1400,pending,Rahul,Verma,Apparel,1400
+1079,2026-11,Sneha,Das,West,Neha Kulkarni,Cotton Kurta,1,1400,completed,Sneha,Das,Apparel,1400
+1080,2026-11,Harsh,Chopra,East,Sanjay Roy,Bluetooth Speaker,1,2800,completed,Harsh,Chopra,Electronics,2800
+1081,2026-11,  Vikram,Singh ,North,Arjun Mehta,Wireless Earbuds,2,6400,completed,Vikram,Singh,Electronics,3200
+1082,2026-11,karthik ,nair,East,Sanjay Roy,Running Shoes,3,10800,disputed,Karthik,Nair,Apparel,3600
+1083,2026-11,Lakshmi,Kapoor,South,Kavya Nair,Air Fryer,2,10400,completed,Lakshmi,Kapoor,Home,5200
+1084,2026-11,Lakshmi,Kapoor,South,Kavya Nair,Running Shoes,1,3600,completed,Lakshmi,Kapoor,Apparel,3600
+1085,2026-11,aarav,Sharma,North,Arjun Mehta,Wireless Earbuds,1,3200,completed,Aarav,Sharma,Electronics,3200
+1086,2026-11,Manoj,Desai,North,Arjun Mehta,Running Shoes,2,7200,completed,Manoj,Desai,Apparel,3600
+1087,2026-11,Manoj,Desai,North,Arjun Mehta,Smart Watch,1,4500,completed,Manoj,Desai,Electronics,4500
+1088,2026-11,Sneha,Das,West,Neha Kulkarni,Wireless Earbuds,1,3200,completed,Sneha,Das,Electronics,3200
+1089,2026-11,MEERA,  Patil,South,Kavya Nair,Table Lamp,1,1100,completed,Meera,Patil,Home,1100
+1090,2026-11,karthik ,nair,East,Sanjay Roy,Wireless Earbuds,3,9600,completed,Karthik,Nair,Electronics,3200
