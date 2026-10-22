@@ -1,7 +1,6 @@
 README.md
 sql/00_schema_and_seed.sql
 sql/q01.sql … sql/q13.sql
-sql/d1_corrected.sql
 results/query_results.md
 data/orders_enriched.csv
 data/orders_clean.csv
