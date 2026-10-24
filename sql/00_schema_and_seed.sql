@@ -1,7 +1,33 @@
-CREATE TABLE reps (rep_id INTEGER, rep_name VARCHAR(50), region VARCHAR(20), monthly_target INTEGER);
-CREATE TABLE products (item VARCHAR(50), category VARCHAR(20), unit_price INTEGER);
-CREATE TABLE customers (customer_id INTEGER, first_name VARCHAR(30), last_name VARCHAR(30), city VARCHAR(30), region VARCHAR(20), age INTEGER, rep_id INTEGER);
-CREATE TABLE orders (order_id INTEGER, customer_id INTEGER, item VARCHAR(50), quantity INTEGER, amount INTEGER, status VARCHAR(20), order_month VARCHAR(7));
+-- Four tables and synthetic seed supplied in the BBD capstone brief.
+CREATE TABLE reps (
+  rep_id INTEGER,
+  rep_name VARCHAR(50),
+  region VARCHAR(20),
+  monthly_target INTEGER
+);
+CREATE TABLE products (
+  item VARCHAR(50),
+  category VARCHAR(20),
+  unit_price INTEGER
+);
+CREATE TABLE customers (
+  customer_id INTEGER,
+  first_name VARCHAR(30),
+  last_name VARCHAR(30),
+  city VARCHAR(30),
+  region VARCHAR(20),
+  age INTEGER,
+  rep_id INTEGER
+);
+CREATE TABLE orders (
+  order_id INTEGER,
+  customer_id INTEGER,
+  item VARCHAR(50),
+  quantity INTEGER,
+  amount INTEGER,
+  status VARCHAR(20),
+  order_month VARCHAR(7)
+);
 
 INSERT INTO reps VALUES
   (1, 'Arjun Mehta', 'North', 40000),
